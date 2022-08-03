@@ -12,7 +12,7 @@ function App() {
           <li>JavaScript</li>
           <li>MERN</li>
         </ul>
-        <p>Thank you Sir <strong>Zia Khan</strong> his team for this oppertunity
+        <p>Thank you Sir <strong>Zia Khan</strong> and his team for this oppertunity
         from all bootcampers.</p>
     </div>
   );
