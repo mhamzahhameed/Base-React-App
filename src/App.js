@@ -1,23 +1,19 @@
-import logo from './logo.svg';
-import './App.css';
+import './App.css'
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="container">
+      <p>Hello World! <br /> from <strong>Hamzah</strong><h3>
+        Pakistan</h3> Before jumping into <span>bootcamp </span>
+        I got familiar with followings:</p>
+        <ul>
+          <li>HTML</li>
+          <li>CSS</li>
+          <li>JavaScript</li>
+          <li>MERN</li>
+        </ul>
+        <p>Thank you Sir <strong>Zia Khan</strong> his team for this oppertunity
+        from all bootcampers.</p>
     </div>
   );
 }
